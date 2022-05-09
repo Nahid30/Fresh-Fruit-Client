@@ -67,7 +67,7 @@ const ManageInventories = () => {
     }
 
 
-
+// Hello
 
 
     return (
